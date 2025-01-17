@@ -1,0 +1,3 @@
+Scanner sc_string = new Scanner(System.in); Scanner sc_int = new Scanner(System.in);System.out.print("What is your favorite number? ");int number = sc_int.nextInt();System.out.println("Your favorite number is " + number);       System.out.print("What is your favorite sport? ");       String sport = sc_string.nextLine();        System.out.println("Your favorite sport is " + sport);       System.out.print("What is your favorite VideoGame? ");       String favVG = sc_string.nextLine();        System.out.println("My favorite VideoGame is " + favVG);       System.out.print("What is your favorite food? ");        String favFood = sc_string.nextLine();  System.out.println("My favorite food is " + favFood);
+        
+        
